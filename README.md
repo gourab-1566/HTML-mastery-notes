@@ -1,2 +1,10 @@
-# HTML-mastery-notes
-My HTML learning notes, practice exercises, and course projects completed in 2024.
+# HTML Learning Journey 2024
+
+This repository contains:
+
+- HTML notes
+- Practice exercises
+- Course examples
+- Mini projects
+
+Created while learning HTML in 2024.
